@@ -9,5 +9,11 @@
   <References>
   </References>
   <Items>
+    <Item Include="\Audio\Electrical-Tone.wav">
+      <Name>Electrical-Tone</Name>
+      <BuildAction>Compile</BuildAction>
+      <Importer Name="AudioImporter" />
+      <Processor Name="SoundEffectProcessor" />
+    </Item>
   </Items>
 </ContentProject>
